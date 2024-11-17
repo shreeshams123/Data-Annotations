@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Annotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035DD699-F501-46DF-972D-11B6F4A5EC18}|Data Annotations\\Data Annotations.csproj|d:\\data annotations\\data annotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035DD699-F501-46DF-972D-11B6F4A5EC18}|Data Annotations\\Data Annotations.csproj|solutionrelative:data annotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035DD699-F501-46DF-972D-11B6F4A5EC18}|Data Annotations\\Data Annotations.csproj|d:\\data annotations\\data annotations\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035DD699-F501-46DF-972D-11B6F4A5EC18}|Data Annotations\\Data Annotations.csproj|solutionrelative:data annotations\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035DD699-F501-46DF-972D-11B6F4A5EC18}|Data Annotations\\Data Annotations.csproj|d:\\data annotations\\data annotations\\data annotations.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{035DD699-F501-46DF-972D-11B6F4A5EC18}|Data Annotations\\Data Annotations.csproj|solutionrelative:data annotations\\data annotations.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Data Annotations\\Data Annotations\\User.cs",
+              "RelativeDocumentMoniker": "Data Annotations\\User.cs",
+              "ToolTip": "D:\\Data Annotations\\Data Annotations\\User.cs",
+              "RelativeToolTip": "Data Annotations\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvwsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:20:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data Annotations",
+              "DocumentMoniker": "D:\\Data Annotations\\Data Annotations\\Data Annotations.csproj",
+              "RelativeDocumentMoniker": "Data Annotations\\Data Annotations.csproj",
+              "ToolTip": "D:\\Data Annotations\\Data Annotations\\Data Annotations.csproj",
+              "RelativeToolTip": "Data Annotations\\Data Annotations.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T06:01:58.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data Annotations\\Data Annotations\\Program.cs",
+              "RelativeDocumentMoniker": "Data Annotations\\Program.cs",
+              "ToolTip": "D:\\Data Annotations\\Data Annotations\\Program.cs",
+              "RelativeToolTip": "Data Annotations\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:59:49.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
